@@ -12,5 +12,3 @@ bin/scss-lint
 bin/slim-lint app/views
 
 bin/bundle-audit update
-bin/bundle-audit
-
